@@ -1,0 +1,27 @@
+/* @media only screen and (min-width: 480px){
+	.review-section{
+		display:flex;
+		flex-direction:coloumn;
+	}
+} */
+ @media (max-width:576px){
+		.live-class{
+			width:299px;
+		display:flex;
+		flex-direction:coloumn;
+	}
+	.review-section{
+		display:flex;
+		flex-direction:coloumn;
+	}
+	.container-2{
+	width: 588px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+	}
+	body{
+		text-align:center;
+	}
+}
